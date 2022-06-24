@@ -1,4 +1,8 @@
-### Hi there 👋
+### Research Scientist and Software Developer 👋
+
+I build tools to better understand and model human behaviour. 
+
+I currently work as an R&D Scientist at [Cambridge Cognition](https://www.cambridgecognition.com/services/neuroscience-consultancy/alex-anwyl-irvine-phd), where I make new assessments for memory and other cognitive abilities. 
 
 <!--
 **u01ai11/u01ai11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
